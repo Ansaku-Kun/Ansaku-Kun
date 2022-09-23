@@ -12,8 +12,6 @@ Haii.... Capek ya.. Istirahat K*ntol
 💌 How to reach me:
 
 `Facebook     :` [Ansaku Kun](https://www.facebook.com/profile.php?id=100085569566875) <br>
-`Facebook Page:` [Ansaku Kun](https://google.com) <br> 
-`Gmail        :` ankisatya@gmail.com <br>
 
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=Ansaku-Kun&show_icons=true&theme=midnight-purple alt=Ansaku Kun />
